@@ -1,4 +1,0 @@
-The representation of your SQL database, in code. Note that as of this writing, we only use this for projects that use SQL as it’s data store. This solves the problem of database changes migration, and the problem of tracking changes for example in a stored procedure.
-
-- It allows your tables, views, stored procedures, and etc to be included in your version control or repositories.
-- It allows you to publish to a target SQL database. This means that an SQL script will be generated that will contain everything that is not yet found/implemented in the target database. Everything that is in your database project will be published (e.g. tables). Note: always choose “Generate Scripts” so that you can manually check the script before execution.
