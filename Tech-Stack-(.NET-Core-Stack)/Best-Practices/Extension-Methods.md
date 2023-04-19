@@ -1,2 +1,0 @@
-Used to extend functionality of a class through a separate static method in a separate class declaration. Typically we use this to convert models into another format that a service can understand. We can also create an extension method for reusable, not-so-complex functionalities. Examples:
-- Convert Api models to Service models. A `GetUsersWebRequest` in the API layer will have a `GetUsersRequest` equivalent in the `Infrastructure` layer. Converting to/from the models should be written in extension method

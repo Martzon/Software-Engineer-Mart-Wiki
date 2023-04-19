@@ -1,1 +1,0 @@
-The **continuous deployment (CD)** pipeline is responsible for automatically deploying the resulting artifact from a build, right into the corresponding resource in Azure Portal. 
