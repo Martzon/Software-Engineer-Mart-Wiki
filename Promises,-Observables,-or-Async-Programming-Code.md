@@ -1,0 +1,1 @@
+**Synchronous** task execution makes you wait for it to finish before moving on to the next line of code. Meanwhile, **asynchronous** task execution allows the program to move to the next line of code before the task itself is finished. There are multiple ways to accomplish asynchronous programming in your code.

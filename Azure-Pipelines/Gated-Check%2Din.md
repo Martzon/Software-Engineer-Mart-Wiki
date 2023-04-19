@@ -1,0 +1,1 @@
+A CI pipeline custom-made for testing pull requests. This pipeline is designed **to test and build incoming code from a pull request** so that errors or issues can be easily corrected before getting merged into the target branch. Even though it will be under the CI pipelines, this pipeline shouldn’t publish anything.
