@@ -1,0 +1,1 @@
+The main purpose of **continuous integration (CI)** pipeline is to automatically build an artifact once code changes are merged into a specific branch. The resulting artifact could then be used by the continuous deployment (CD) pipeline.
